@@ -1,0 +1,27 @@
+{
+  "id": "io.github.consolexp.official-windows-computer-use",
+  "name": "Official Windows Computer Use",
+  "version": "0.1.0",
+  "githubRepo": "consolexp/codex-plusplus-official-windows-computer-use",
+  "description": "Unlock the official OpenAI bundled Windows Computer Use plugin in Codex.",
+  "author": {
+    "name": "consolexp",
+    "url": "https://github.com/consolexp"
+  },
+  "homepage": "https://github.com/consolexp/codex-plusplus-official-windows-computer-use",
+  "iconUrl": "./icon.svg",
+  "tags": [
+    "windows",
+    "computer-use",
+    "openai",
+    "official"
+  ],
+  "scope": "both",
+  "main": "index.js",
+  "permissions": [
+    "settings",
+    "ipc",
+    "filesystem",
+    "network"
+  ]
+}
